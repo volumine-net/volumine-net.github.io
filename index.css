@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/5.jpg");
+  background-image: url("images/5-product1.jpg");
   background-position: 50% 50%;
 }
 
@@ -72,8 +72,14 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 767px;
+  }
+
   .u-section-1 .u-group-1 {
-    width: 340px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-text-1 {
@@ -123,7 +129,7 @@
 
 .u-section-2 .u-image-1 {
   min-height: 302px;
-  background-image: url("images/5919fed0-9290-0161-07e7-b4aac8e308ea.jpg");
+  background-image: url("https://pixabay.com/get/g5310a5314a9bc2a4b4034b3111e6d7de3af554d7877be84c8f268865e77bbfdd0d2fcf3409eca7883143fbd509c706967ca0d15c57f8140818217f445adcea1d_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -164,8 +170,8 @@
 
 .u-section-2 .u-image-2 {
   min-height: 302px;
-  background-image: url("images/beautifulspaasianwomantouchingherfaceperfectfreshskinpurebeautymodel_50889114.jpg");
-  background-position: 19.64% 50%;
+  background-image: url("images/pexels-tara-winstead-6690251.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-4 {
@@ -212,7 +218,7 @@
 
 .u-section-2 .u-image-4 {
   min-height: 302px;
-  background-image: url("images/closeupoffeetspatherapyandmassage_5387615402.jpg");
+  background-image: url("images/f002b453ce54e4c193a9201d8e917265034ebfaec534c71494340b20f25cce7cd4cbb8c57cde373228f598571b0d21c705060d3d21736549fb4517_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -1511,7 +1517,7 @@
 }
 
 .u-section-6 .u-image-1 {
-  background-image: url("images/beautifulwomancaresfortheskinfaceisolatedonwhitewithclippingpath_5088965.jpg");
+  background-image: url("images/pexels-chokniti-khongchum-2280571.jpg");
   min-height: 601px;
   background-position: 50% 50%;
 }
@@ -1549,7 +1555,15 @@
 }
 
 .u-section-6 .u-text-2 {
-  margin: 20px 0 50px;
+  margin: 20px 0 0;
+}
+
+.u-section-6 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 30px auto 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -1575,7 +1589,6 @@
 
   .u-section-6 .u-group-1 {
     width: 388px;
-    min-height: 426px;
     margin-top: 50px;
     margin-bottom: 26px;
   }
@@ -1622,7 +1635,6 @@
 
   .u-section-6 .u-group-1 {
     width: 297px;
-    min-height: 431px;
     margin-top: 38px;
     margin-bottom: 38px;
   }
@@ -1668,7 +1680,6 @@
 
   .u-section-6 .u-group-1 {
     width: 468px;
-    min-height: 500px;
     margin-top: 50px;
     margin-bottom: 51px;
   }
@@ -1687,7 +1698,7 @@
   }
 
   .u-section-6 .u-text-2 {
-    margin-bottom: 50px;
+    margin-bottom: 0;
   }
 }
 
@@ -1713,7 +1724,6 @@
 
   .u-section-6 .u-group-1 {
     width: 285px;
-    min-height: 348px;
     margin-top: 0;
     margin-bottom: 0;
   }
@@ -1728,10 +1738,6 @@
 
   .u-section-6 .u-line-1 {
     width: 25px;
-  }
-
-  .u-section-6 .u-text-2 {
-    margin-bottom: 0;
   }
 }.u-section-7 .u-sheet-1 {
   min-height: 758px;
@@ -2014,7 +2020,7 @@
     margin-bottom: 87px;
   }
 } .u-section-8 {
-  background-image: linear-gradient(0deg, rgba(255,255,255,0.65), rgba(255,255,255,0.65)), url("images/eb2ed1ba-05cd-04e3-ecae-7d80d4432e34.jpg");
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.65), rgba(255,255,255,0.65)), url("images/911422be545be4f478713eca7a6b0d9f040226d3f320e8c032fe9830d83c447c65b4c420293e927c5c5e0ce95a2606ceda494da50a0a9317b6fd44_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -2036,7 +2042,7 @@
   width: 682px;
   min-height: 633px;
   background-image: none;
-  margin: 40px auto 51px;
+  margin: 39px auto 0;
 }
 
 .u-section-8 .u-container-layout-2 {
