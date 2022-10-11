@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/05e454e9e3ed27b017a553c9c87f52fb8b37cabc1c11f615c40d17001e108591b3ab420b3fb2e4ba30ba67e951e892a30394b38bb332591843c8b8_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/cf714e7edcec71080bd39ea27701983ffc9d4ffb15ba27fcf3f6d99c92593216abe9bcb9794e069b4cff2df044a488119d5933e7b5c4dc57cc8be6_1280-16.jpg");
   background-position: 50% 50%;
 }
 
@@ -28,7 +28,7 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 660px;
+    min-height: 757px;
   }
 
   .u-section-1 .u-text-1 {
