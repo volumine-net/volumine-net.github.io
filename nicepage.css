@@ -36704,7 +36704,6 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-1 {
   font-weight: 400;
   font-size: 1rem;
-  font-family: "PT Sans", sans-serif;
 }
 
 .u-header .u-nav-2 {
@@ -36720,6 +36719,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: -45px;
     margin-right: 155px;
     margin-bottom: 23px;
+  }
+
+  .u-header .u-nav-1 {
+    font-family: "PT Sans", sans-serif;
   }
 }
 @media (max-width: 991px) {
