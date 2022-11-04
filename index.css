@@ -2091,6 +2091,7 @@
 
 .u-section-8 .u-form-group-4 {
   text-align: left;
+  width: 100%;
 }
 
 .u-section-8 .u-btn-1 {
@@ -2256,9 +2257,5 @@
     width: 273px;
     margin-top: 20px;
     margin-bottom: 70px;
-  }
-
-  .u-section-8 .u-form-group-4 {
-    width: 100%;
   }
 }
