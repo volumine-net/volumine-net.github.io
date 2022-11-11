@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/cover.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/Web_1920_1-bw.png");
   background-position: 50% 50%;
 }
 
@@ -33,11 +33,10 @@
 }
 
 .u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 1px;
-  background-image: none;
   margin: 34px auto 0 0;
 }
 
