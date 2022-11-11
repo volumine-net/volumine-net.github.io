@@ -226,7 +226,6 @@
 .u-section-3 .u-layout-wrap-1 {
   margin-top: 60px;
   margin-bottom: 60px;
-  position: relative;
 }
 
 .u-section-3 .u-layout-cell-1 {
@@ -279,6 +278,10 @@
   .u-section-3 .u-text-2 {
     margin-left: 97px;
     margin-right: 97px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    position: relative;
   }
 
   .u-section-3 .u-layout-cell-1 {
@@ -743,7 +746,7 @@
     width: 322px;
   }
 } .u-section-5 {
-  background-image: linear-gradient(0deg, rgba(255,255,255,0.65), rgba(255,255,255,0.65)), url("images/911422be545be4f478713eca7a6b0d9f040226d3f320e8c032fe9830d83c447c65b4c420293e927c5c5e0ce95a2606ceda494da50a0a9317b6fd44_1280-bw.jpg");
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.65), rgba(255,255,255,0.65)), url("images/911422be545be4f478713eca7a6b0d9f040226d3f320e8c032fe9830d83c447c65b4c420293e927c5c5e0ce95a2606ceda494da50a0a9317b6fd44_1280.jpg");
   background-position: 50% 50%;
 }
 
